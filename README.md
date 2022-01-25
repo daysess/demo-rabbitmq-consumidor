@@ -16,5 +16,5 @@ docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.8-man
 ```
 Link de referência: (https://www.rabbitmq.com/download.html)
 
-Prontinho, já pode visualizar o containeres  docker deesktop.
+Prontinho, já pode visualizar o containeres  docker desktop.
 
